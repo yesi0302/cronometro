@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+
+    <string name="hello_world">Cronómetro</string>
+    <string name="action_settings">Registrar Usuario</string>
+    <string name="action_seleccionar">Seleccionar Usuario</string>
+
+</resources>
